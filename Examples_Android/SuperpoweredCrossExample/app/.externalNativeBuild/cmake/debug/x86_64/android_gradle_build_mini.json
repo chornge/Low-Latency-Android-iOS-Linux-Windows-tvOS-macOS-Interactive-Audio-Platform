@@ -1,0 +1,16 @@
+{
+  "buildFiles": [
+    "/Users/christian/StudioProjects/Low-Latency-Android-iOS-Linux-Windows-tvOS-macOS-Interactive-Audio-Platform/Examples_Android/SuperpoweredCrossExample/app/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/Users/christian/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/christian/StudioProjects/Low-Latency-Android-iOS-Linux-Windows-tvOS-macOS-Interactive-Audio-Platform/Examples_Android/SuperpoweredCrossExample/app/.externalNativeBuild/cmake/debug/x86_64 --target clean"
+  ],
+  "libraries": {
+    "CrossExample-Debug-x86_64": {
+      "artifactName": "CrossExample",
+      "buildCommand": "/Users/christian/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/christian/StudioProjects/Low-Latency-Android-iOS-Linux-Windows-tvOS-macOS-Interactive-Audio-Platform/Examples_Android/SuperpoweredCrossExample/app/.externalNativeBuild/cmake/debug/x86_64 --target CrossExample",
+      "abi": "x86_64",
+      "output": "/Users/christian/StudioProjects/Low-Latency-Android-iOS-Linux-Windows-tvOS-macOS-Interactive-Audio-Platform/Examples_Android/SuperpoweredCrossExample/app/build/intermediates/cmake/debug/obj/x86_64/libCrossExample.so"
+    }
+  }
+}

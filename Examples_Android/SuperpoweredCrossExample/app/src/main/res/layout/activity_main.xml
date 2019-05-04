@@ -12,7 +12,6 @@
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="35dp"
-        android:onClick="CrossExample_PlayPause"
         android:text="PLAY" />
 
     <SeekBar

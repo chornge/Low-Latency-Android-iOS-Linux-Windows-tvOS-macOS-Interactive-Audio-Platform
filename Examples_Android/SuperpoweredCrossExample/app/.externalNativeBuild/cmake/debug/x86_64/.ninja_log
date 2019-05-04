@@ -1,0 +1,4 @@
+# ninja log v5
+1	186	0	CMakeFiles/CrossExample.dir/Users/christian/StudioProjects/Low-Latency-Android-iOS-Linux-Windows-tvOS-macOS-Interactive-Audio-Platform/Superpowered/AndroidIO/SuperpoweredAndroidAudioIO.cpp.o	477909ca21b302de
+0	227	0	CMakeFiles/CrossExample.dir/src/main/cpp/CrossExample.cpp.o	8cdc4e91235d4026
+227	363	0	../../../../build/intermediates/cmake/debug/obj/x86_64/libCrossExample.so	3b150dcaa3c1d734
